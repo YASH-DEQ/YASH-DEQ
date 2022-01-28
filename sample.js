@@ -4,4 +4,4 @@ return a+b;
 }
 
 
-add();
+add(1,2);
