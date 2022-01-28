@@ -1,7 +1,7 @@
-function add(a,b)
+function add(a=10,b)
 {
 return a+b;
 }
 
 
-add(10,20);
+add(20);
