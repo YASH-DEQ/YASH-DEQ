@@ -4,4 +4,5 @@ return a+b;
 }
 
 
-add(20);
+
+add(1,2);
